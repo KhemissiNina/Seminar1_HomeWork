@@ -1,0 +1,15 @@
+E:\НинОК\Обучение\Знакомство с языком С#\Home Work\Exercise3\obj\Debug\net6.0\Exercise3.csproj.AssemblyReference.cache
+E:\НинОК\Обучение\Знакомство с языком С#\Home Work\Exercise3\obj\Debug\net6.0\Exercise3.GeneratedMSBuildEditorConfig.editorconfig
+E:\НинОК\Обучение\Знакомство с языком С#\Home Work\Exercise3\obj\Debug\net6.0\Exercise3.AssemblyInfoInputs.cache
+E:\НинОК\Обучение\Знакомство с языком С#\Home Work\Exercise3\obj\Debug\net6.0\Exercise3.AssemblyInfo.cs
+E:\НинОК\Обучение\Знакомство с языком С#\Home Work\Exercise3\obj\Debug\net6.0\Exercise3.csproj.CoreCompileInputs.cache
+E:\НинОК\Обучение\Знакомство с языком С#\Home Work\Exercise3\bin\Debug\net6.0\Exercise3.exe
+E:\НинОК\Обучение\Знакомство с языком С#\Home Work\Exercise3\bin\Debug\net6.0\Exercise3.deps.json
+E:\НинОК\Обучение\Знакомство с языком С#\Home Work\Exercise3\bin\Debug\net6.0\Exercise3.runtimeconfig.json
+E:\НинОК\Обучение\Знакомство с языком С#\Home Work\Exercise3\bin\Debug\net6.0\Exercise3.dll
+E:\НинОК\Обучение\Знакомство с языком С#\Home Work\Exercise3\bin\Debug\net6.0\Exercise3.pdb
+E:\НинОК\Обучение\Знакомство с языком С#\Home Work\Exercise3\obj\Debug\net6.0\Exercise3.dll
+E:\НинОК\Обучение\Знакомство с языком С#\Home Work\Exercise3\obj\Debug\net6.0\refint\Exercise3.dll
+E:\НинОК\Обучение\Знакомство с языком С#\Home Work\Exercise3\obj\Debug\net6.0\Exercise3.pdb
+E:\НинОК\Обучение\Знакомство с языком С#\Home Work\Exercise3\obj\Debug\net6.0\Exercise3.genruntimeconfig.cache
+E:\НинОК\Обучение\Знакомство с языком С#\Home Work\Exercise3\obj\Debug\net6.0\ref\Exercise3.dll
